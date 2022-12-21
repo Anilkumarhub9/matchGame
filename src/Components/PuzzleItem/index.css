@@ -1,0 +1,12 @@
+.thumb-list {
+  list-style-type: none;
+  margin: 10px;
+}
+.thumb {
+  height: 100px;
+  width: 100px;
+}
+.thumb-button {
+  background-color: transparent;
+  border-width: 0px;
+}

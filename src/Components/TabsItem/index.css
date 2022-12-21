@@ -1,0 +1,19 @@
+.list {
+  list-style-type: none;
+  padding: 20px;
+  font-size: 25px;
+  font-weight: 600;
+}
+.tab-Item {
+  background-color: transparent;
+  border-width: 0px;
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 25px;
+  font-weight: 600;
+  padding-bottom: none;
+}
+.color {
+  border-bottom: 2px solid #fec653;
+  color: #fec653;
+}
